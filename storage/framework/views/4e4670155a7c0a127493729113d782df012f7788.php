@@ -1,0 +1,1 @@
+<h1>Category<h1><?php /**PATH /home/miet/apps/u8190324-lab2/resources/views/category.blade.php ENDPATH**/ ?>
